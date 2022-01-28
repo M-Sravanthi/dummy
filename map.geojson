@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Date":"2017-06-29","hh":"00:00:00","time":"2017-06-29 00:00:00"},"geometry":{"type":"Point","coordinates":[73.9203,15.300881]}},{"type":"Feature","properties":{"Date":"2017-06-30","hh":"00:00:00","time":"2017-06-30 00:00:00"},"geometry":{"type":"Point","coordinates":[73.9203,15.300881]}}
